@@ -8,7 +8,7 @@
 
 ## How to Use
 
-  This application is use for weather forecast of next 5 days.User can search any city and check the Weather forecast.\
+  This application is for weather forecast of next 5 days.User can search any city and check the Weather forecast.\
   To use this app user needs to be enter city name in the input field and hit the search button.\
   In the current weather tab - User can check the current weather of the city. \
   In the forecast tab - User can check the next 5 days forecast of the city.
