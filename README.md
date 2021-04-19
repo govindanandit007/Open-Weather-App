@@ -1,3 +1,6 @@
+# Setup 
+  1.Clone the code from the repo - https://github.com/govindanandit007/Open-Weather-App.git
+  2.
 # OpenWeatherApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
