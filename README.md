@@ -1,5 +1,5 @@
 # Setup 
-  1.Clone the code from the repo - https://github.com/govindanandit007/Open-Weather-App.git\
+  1.Clone the code from the repo - https://github.com/govindanandit007/Open-Weather-App.git \
   2.Open the Terminal Ctrl + ~ and run the command - npm install
 # OpenWeatherApp
 
