@@ -1,6 +1,6 @@
 # Setup 
-  1.Clone the code from the repo - https://github.com/govindanandit007/Open-Weather-App.git
-  2.
+  1.Clone the code from the repo - https://github.com/govindanandit007/Open-Weather-App.git\
+  2.Open the Terminal Ctrl + ~ and run the command - npm install
 # OpenWeatherApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
